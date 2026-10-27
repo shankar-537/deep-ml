@@ -9,19 +9,14 @@ def bayes_theorem(priors: list[float], likelihoods: list[float]) -> list[float]:
 	Returns:
 		Posterior probabilities P(H_i|E) for each hypothesis
 	"""
-	total_probability = 0
-
+	
 	if len(priors) == len(likelihoods):
-		for u,v in zip(priors, likelihoods):
-			total_probability += u*v
+		total_probability = sum(u*v for u,v in zip(priors, likelihoods))
 	else:
 		return ValueError("the priors and likelihood list must be off same length")
 
-	posterior_probabilities = []
-
-	for u,v in zip(priors, likelihoods):
-		posterior_probabilities.append((u*v)/total_probability)
-
+	posterior_probabilities = [(u*v)/total_probability for u,v in zip(priors,likelihoods)]
+	
 	return posterior_probabilities
 
 	
