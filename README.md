@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-10-26 | [solution](problems/0168-calculate-conditional-probability-from-data) |
+| [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-10-27 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-10-26 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-26 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 
