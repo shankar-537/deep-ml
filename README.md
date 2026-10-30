@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 5 problems · 0 labs · 4 math
+**10** solved · 6 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-10-26 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-26 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Simulate Two-Dice Sum Distribution](https://www.deep-ml.com/problems/1139) | easy | 2026-10-27 | [solution](problems/1139-simulate-two-dice-sum-distribution) |
+| [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-10-30 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 
 ## Math
 
