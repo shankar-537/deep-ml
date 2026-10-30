@@ -10,10 +10,5 @@ def law_of_total_probability(priors: dict, conditionals: dict) -> float:
         float: The total probability P(A), rounded to 4 decimal places
     """
     # Your code here
-
-    result = 0
-
-    for u,v in zip(priors.values(), conditionals.values()):
-        result+=u*v
     
-    return result
+    return sum([u*v for u,v in zip(priors.values(), conditionals.values())])

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:05:57.700Z",
+  "generated_at": "2026-10-30T11:07:11.595Z",
   "items": {
     "problem:168": {
       "kind": "problem",
@@ -119,9 +119,9 @@
       "url": "https://www.deep-ml.com/problems/244",
       "path": "problems/0244-compute-total-probability-using-law-of-total-probability",
       "first_solved_at": "2026-10-30T11:05:50.552Z",
-      "last_pushed_at": "2026-10-30T11:05:50.552Z",
+      "last_pushed_at": "2026-10-30T11:07:04.303Z",
       "language": "python",
-      "lines": 19
+      "lines": 14
     }
   }
 }
