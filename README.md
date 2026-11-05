@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 9 problems · 0 labs · 4 math
+**14** solved · 10 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-11-01 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-11-05 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-10-30 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-11-05 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-10-31 | [solution](problems/0132-simulate-markov-chain-transitions) |
 
 ## Math
