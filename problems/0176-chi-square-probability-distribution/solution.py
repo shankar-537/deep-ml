@@ -15,8 +15,8 @@ def chi_square_probability(x, k):
     elif( x == 0 ):
         if((k/2)-1 == 0):
             probability = normalize * (1) * (math.exp(-x/2))
-        else:
             return round(probability, 3)
-        return round(probability, 3)
+        else:
+            return round(probability, 3)   
     else:
         return round(probability, 3)

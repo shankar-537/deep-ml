@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:44:13.110Z",
+  "generated_at": "2026-11-05T05:44:45.347Z",
   "items": {
     "problem:168": {
       "kind": "problem",
@@ -158,7 +158,7 @@
       "url": "https://www.deep-ml.com/problems/176",
       "path": "problems/0176-chi-square-probability-distribution",
       "first_solved_at": "2026-11-05T05:44:06.100Z",
-      "last_pushed_at": "2026-11-05T05:44:06.100Z",
+      "last_pushed_at": "2026-11-05T05:44:34.649Z",
       "language": "python",
       "lines": 22
     }
